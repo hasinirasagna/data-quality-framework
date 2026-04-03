@@ -48,7 +48,6 @@ The pipeline ensures that only high-quality, consistent, and reliable data moves
 ---
 
 ## Project Structure
-data-quality-framework/
 │
 ├── data/
 │ ├── raw/
@@ -66,8 +65,6 @@ data-quality-framework/
 ├── gx/
 │
 └── README.md
-
-
 ---
 
 ## Key Features
