@@ -1,6 +1,18 @@
+# System files
+.DS_Store
+
+# Python
 venv/
 __pycache__/
 *.pyc
+
+# Data (IMPORTANT)
+data/raw/*
+data/quarantine/*
+data/validated/*
+
+# Keep folder structure
+!data/**/.gitkeep
+
+# Logs
 logs/
-data/
-great_expectations/uncommitted/
