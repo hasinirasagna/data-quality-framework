@@ -106,15 +106,6 @@ python scripts/ge_setup.py
 - `customer_zip_code_prefix` must contain only digits
 - `customer_state` must be exactly 2 characters
 
----
-
-## Future Improvements
-
-- Workflow orchestration using Airflow
-- Automated scheduling of validation jobs
-- Integration with cloud storage (S3/GCS)
-- Real-time alerting (Slack/Email)
-- Data quality dashboards
 
 ---
 
