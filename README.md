@@ -48,23 +48,27 @@ The pipeline ensures that only high-quality, consistent, and reliable data moves
 ---
 
 ## Project Structure
+
+```
+data-quality-framework/
 │
 ├── data/
-│ ├── raw/
-│ ├── validated/
-│ └── quarantine/
+│   ├── raw/
+│   ├── validated/
+│   └── quarantine/
 │
 ├── logs/
 │
 ├── scripts/
-│ ├── validate.py
-│ ├── ge_setup.py
-│ ├── logger.py
-│ └── alert.py
+│   ├── validate.py
+│   ├── ge_setup.py
+│   ├── logger.py
+│   └── alert.py
 │
 ├── gx/
 │
 └── README.md
+```
 ---
 
 ## Key Features
